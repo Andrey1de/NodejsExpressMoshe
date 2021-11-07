@@ -1,0 +1,12 @@
+[
+  {
+    "alarmName": "111",
+    "time": "05:00:23",
+    "active": true
+  },
+  {
+    "alarmName": "A23",
+    "time": "23:00:00",
+    "active": true
+  }
+]
