@@ -20,3 +20,5 @@ Payload format of json:
 ## POST http://localhost:4100/alarms/save (payload json)
 
 ## GET http://localhost:4100/alarms/read (payload json)
+
+# RUN via command : yarn start
